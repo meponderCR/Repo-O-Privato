@@ -1,0 +1,34 @@
+Package: com.libretro.RetroArch
+Version: 1.6.7.1508720395
+Architecture: iphoneos-arm
+Maintainer: Radius
+Filename: ./RetroArch/RetroArch.deb
+Size: 183573052
+MD5sum: f692451fbb7391e50c4480886c20c406
+SHA1: 592b2307f4268890fb436bc42da163cc93a9fccf
+SHA256: 5039ae327d34f621b3f59ea4fe806aec619f67279331a6f463f5d7c8e5c3e80c
+Section: Games
+Homepage: http://www.libretro.com
+Description: RetroArch is the official reference frontend for the libretro API
+Author: Twinaphex
+Depiction: http://buildbot.libretro.com/repo/cydia/retroarch.png
+Icon: http://buildbot.libretro.com/repo/cydia/retroarch-icon.png
+Name: RetroArch
+
+Package: com.libretro.RetroArch9
+Version: 1.6.7.1508720395
+Architecture: iphoneos-arm
+Maintainer: Radius
+Filename: ./RetroArch/RetroArch_iOS9.deb
+Size: 183407412
+MD5sum: 9d2653ddec9357a805ef1baa0bb89c69
+SHA1: 50907bb2cbc07a4e5e6986e60056acb9cc8e7e72
+SHA256: ba40b16a5941a98d8191eab47ef249cf904079038eb038fb005290489431cc88
+Section: Games
+Homepage: http://www.libretro.com
+Description: RetroArch is the official reference frontend for the libretro API
+Author: Twinaphex
+Depiction: http://buildbot.libretro.com/repo/cydia/retroarch.png
+Icon: http://buildbot.libretro.com/repo/cydia/retroarch-icon.png
+Name: RetroArch iOS9
+
